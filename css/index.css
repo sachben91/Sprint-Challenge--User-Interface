@@ -196,3 +196,72 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.About-hero-content
+{
+	margin:1px;
+	padding: 2px;
+	margin-bottom: 25px;
+	border-bottom: 2px dotted gray;
+	padding-bottom: 15px;
+}
+.Main-content{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.Main-content button{
+	width: 150px;
+	font-size: 16px;
+	font-weight: bold;
+	height: 48px;
+	background: white;
+	border-style: solid;
+	border-radius: 12px;
+	border-color: black;
+	margin: 2px;
+	padding: 2px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.Main-content h2{
+	margin-top: 10px;
+}
+.Main-content .Strategy{
+	width: 48%;
+	margin: 1px;
+	padding: 1px;
+	margin-bottom: 25px;
+	padding-bottom: 10px;
+	border-bottom: 2px dotted gray;
+}
+.Main-content .How-we-work{
+	width: 48%;
+	margin: 1px;
+	padding:1px;
+	margin-bottom: 25px;
+	padding-bottom: 10px;
+	border-bottom: 2px dotted gray;
+}
+.Main-content .Places-we-work{
+	width: 48%;
+	margin: 1px;
+	padding: 1px;
+	margin-bottom: 25px;
+	padding-bottom: 10px;
+	border-bottom: 2px dotted gray;
+}
+.Main-content .collab{
+	width: 48%;
+	margin: 1px;
+	padding: 1px;
+	margin-bottom: 25px;
+	padding-bottom: 10px;
+	border-bottom: 2px dotted gray;
+}
+.Cta{
+	margin: 1px;
+	padding: 1px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
